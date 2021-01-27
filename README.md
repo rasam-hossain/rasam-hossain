@@ -2,10 +2,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=rasam-hossain.Crasam-hossain) [![Github](https://img.shields.io/github/followers/rasam-hossain?label=Followers&logo=Github)](https://github.com/rasam-hossain)
 
 ## Full Stack Software Developer | 🎓 M.Sc and B.Sc in Computer Science
-- 🌱 I’m currently learning Redux
-- 👯 I’m looking to collaborate on open source/web development projects
-- 🤔 I’m looking for help with discussing new project ideas
-- 💬 Ask me about 
+- 🌱 I’m currently learning React and Redux
+- 👯 I’m looking to collaborate on open source/C#.Net/React based Web development projects
+- 🤔 I’m looking for help with discussing a brand new business plan or just seeking a mentor with financial plans!
+- 💬 Ask me about your cool new project ideas, website design, or just abouot your photopgrahy plans around Toronto region!
 - 📫 How to reach me: rasam_hossain@outlook.com
 - 🔭 I’m currently brushing up my Algo and DS skills (once again!)
 - ⚡ Fun fact: I am also a landscape photographer. Checkout my photos at https://www.flickr.com/photos/rasam-bin-hossain
