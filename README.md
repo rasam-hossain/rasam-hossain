@@ -1,7 +1,7 @@
 ## Hi there 👋 This is [Rasam Hossain][website] 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=rasam-hossain.Crasam-hossain) [![Github](https://img.shields.io/github/followers/rasam-hossain?label=Followers&logo=Github)](https://github.com/rasam-hossain)
 
-## Full Stack Software Developer | 🎓 M.Sc and B.Sc in Computer Science
+## Software Developer | 🎓 M.Sc and B.Sc in Computer Science
 - 🌱 I’m currently learning React and Redux
 - 👯 I’m looking to collaborate on open source/C#.Net/React based Web development projects
 - 🤔 I’m looking for help with discussing a brand new business plan or just seeking a mentor with financial plans!
