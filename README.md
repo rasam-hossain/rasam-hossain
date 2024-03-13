@@ -8,7 +8,7 @@
 - 💬 Ask me about your cool new project ideas, website design, or just about your photopgrahy plans around Toronto region!
 - 📫 How to reach me: rasam_hossain@outlook.com
 - 🔭 I’m currently brushing up my Algo and DS skills (once again! neetcode is great of course)
-- ⚡ Fun fact: I am also a landscape photographer. Checkout my photos at [https://www.flickr.com/photos/rasam-bin-hossain](Interstellar Photographer/)
+- ⚡ Fun fact: I am also a landscape photographer. Checkout my photos at [https://www.instagram.com/interstellar.photographer/]
 
 ## :email: Find me on:
 <p align="center">
